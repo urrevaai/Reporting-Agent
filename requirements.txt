@@ -1,0 +1,12 @@
+Flask
+python-dotenv
+requests
+trafilatura
+pypdf
+google-generativeai
+urllib3
+Werkzeug
+Jinja2
+itsdangerous
+click
+certifi
